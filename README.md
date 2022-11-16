@@ -5,12 +5,6 @@
 - 👀 I’m interested ... in Social Media, Tech & GySoftware and Full stack web developerm.
 - 🎯 In the near future I plan to ... move to Paris & buy a Dobberman.
 - 🤞 One day I hope to ... have the chance to work for Apple or any Social Media.
-- 📫 How to reach me ...
-<p align="left">
-<a href="https://twitter.com/aylinhyusmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aylinhyusmen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aylin-hyusmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aylin-hyusmen" height="30" width="40" /></a>
-<a href="https://instagram.com/aylinhyusmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aylinhyusmen" height="30" width="40" /></a>
-... or email me at ahyusmen@icloud.com
 </p>
 I am a Software and Full stack web developer. I have been practicing software development for a while and have become skilled in a number of languages. I have demonstrated strong presentation, negotiation and communication skills. I have worked with people across the world; I know the terminology related to software and web development. I have been instrumental in leading full-stack back/front-end development, digital marketing, and branding. I am skilled in Python, Django, HTML, REACT, JavaScript, JSON, CSS, Postgres, SQL, SASS, AWS, Heroku, Flask and MongoDB. In addition, I am skilled in github e.g. deploy to gh-pages/website; deploy to Heroku and Netlify.
 
