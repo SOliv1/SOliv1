@@ -1,12 +1,11 @@
 ### Hi there 👋, 
-My name is Sara Oliver
+My name is Sara Oliver 
+
 #### Software and Full stack web developer
 ![Software and Full stack web developer]
 
+
 - 🌟 *'Lets Shine Together'* 
-
-
-
 - 👀 I’m interested ... in Marketing Frontend Tech and Full stack web developerm.
 - 🎯 In the near future I plan to ... move to London & buy a Maltese.
 - 🤞 One day I hope to ... have the chance to work for Github or any other Marketing and Software projects.
@@ -26,4 +25,4 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXwhfWKpnsbG9kGC1zdN
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=windows-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  🔥 🔥✨ -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=react)](https://git.io/streak-stats)
 <!-- ![Sara Oliver](https://github-readme-streak-stats.herokuapp.com/?user=aylinhyusmen&theme=react&hide_border=true) -->
-
+<img src="https://kuk-marketing.s3.eu-west-2.amazonaws.com/images/logo_transparent_background.png" alt="Flask" width="45" height="50"/><a href="https://en.wikipedia.org/wiki/Flask_(web_framework)">
