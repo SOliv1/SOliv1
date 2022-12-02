@@ -6,7 +6,7 @@ My name is Sara Oliver
 
 
 - 🌟 *'Lets Shine Together'* 
-- 👀 I’m interested ... in Marketing Frontend Tech and Full stack web developerm.
+- 👀 I’m interested ... in Marketing Frontend Tech and Full stack web development.
 - 🎯 In the near future I plan to ... move to London & buy a Maltese.
 - 🤞 One day I hope to ... have the chance to work for Github or any other Marketing and Software projects.
 </p>
