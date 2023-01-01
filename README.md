@@ -2,7 +2,7 @@
 My name is Sara Oliver 
 
 #### Software and Full stack web developer
-![Software and Full stack web developer]
+[Software and Full stack web developer](https://en.wikipedia.org/wiki/Full_stack)
 
 
 - 🌟 *'Lets Shine Together'* 
