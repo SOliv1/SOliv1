@@ -9,7 +9,7 @@ My name is Sara Oliver
 - 👀 I’m interested ... in Marketing Frontend Tech and Full stack web development.
 - 🎯 In the near future I plan to ... move to London & buy a Maltese.
 - 🤞 One day I hope to ... have the chance to work for Github or any other Marketing and Software projects.
-- Imogis for projects [getimogi.com](https://getemoji.com/assets/#animals-nature)
+- Imogis for projects [getimogi.com](https://getemoji.com/assets/#animals-nature) 🦔🦔🦔
 </p>
 I am a Software and Full stack web developer. I have been practicing software development for a while and have become skilled in a number of languages. I have demonstrated strong presentation, negotiation and communication skills. I have worked with people across the world; I know the terminology related to software and web development. I have been instrumental in leading full-stack back/front-end development, digital marketing, and branding. I am skilled in Python, Django, HTML, REACT, JavaScript, JSON, CSS, Postgres, SQL, SASS, AWS, Heroku, Flask and MongoDB. In addition, I am skilled in github e.g. deploy to gh-pages/website; deploy to Heroku and Netlify.
 
