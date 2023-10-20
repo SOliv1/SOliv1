@@ -20,7 +20,9 @@ Throughout my career, I have demonstrated expertise in managing a software devel
 src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="40" height="40" /><!--</a><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png" alt="Python" width="40" height="40"/><a href="https://en.wikipedia.org/wiki/Flask_(web_framework)"><img 
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXwhfWKpnsbG9kGC1zdNV4gVCYxjGttZR2Kd5QlNkHa2pQ0BW" alt="Flask" width="50" height="50"/>
 <a href="https://en.wikipedia.org/wiki/Heroku" target="_blank"><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7V0YFpB2Dtqw3RRtBBbyVLiNYzuVSwMhEyiMktF7iODaqrSLanaSI9llnPMvcXRUIWI&usqp=CAU" alt="Heroku" width="40" height="40"/>--></a></p>
-			               
+
+		  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=nightowl)](https://git.io/streak-stats)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=windows-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  🔥 🔥✨ -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=react)](https://git.io/streak-stats)
