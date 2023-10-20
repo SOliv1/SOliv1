@@ -25,6 +25,6 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXwhfWKpnsbG9kGC1zdN
 [![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=nightowl)](https://git.io/streak-stats)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=windows-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  🔥 🔥✨ -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=react)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=SOliv1&theme=react)](https://git.io/streak-stats)-->
 <!-- ![Sara Oliver](https://github-readme-streak-stats.herokuapp.com/?user=aylinhyusmen&theme=react&hide_border=true) -->
 
